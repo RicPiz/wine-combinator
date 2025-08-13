@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RicPiz/wine-combinator/main/winecombinator.png" alt="Logo"/>
+  <img src="https://github.com/RicPiz/wine-combinator/blob/main/winecombinator.png" alt="Logo"/>
 </p>
 
 ![Wine Combinator Logo](winecombinator.png)
@@ -77,6 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built with ❤️ and 🍷 by Riccardo Pizzuti*
+
 
 
 
