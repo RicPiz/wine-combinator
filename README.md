@@ -1,5 +1,3 @@
-# Wine Combinator
-
 ![Wine Combinator Logo](winecombinator.png)
 
 An interactive Streamlit application for discovering and recommending Italian wines based on color, price range, and food pairings. Data sourced from Vivino, focusing exclusively on Italian wines.
@@ -78,7 +76,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ❤️ and 🍷 by [Your Name]*
+*Built with ❤️ and 🍷 by Riccardo Pizzuti*
+
 
 
 
