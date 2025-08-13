@@ -11,10 +11,6 @@ An interactive Streamlit application for discovering and recommending Italian wi
 - **Downloadable Results**: Export your recommendations as a CSV file.
 - **Responsive Design**: Grid layout for recommendations, custom styling for a polished look.
 
-## Demo
-
-You can try a live demo [here](https://your-deployed-app-url.streamlit.app/) (if deployed, otherwise remove this section).
-
 ## Installation
 
 1. Clone the repository:
@@ -77,6 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built with ❤️ and 🍷 by Riccardo Pizzuti*
+
 
 
 
